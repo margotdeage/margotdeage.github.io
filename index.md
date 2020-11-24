@@ -154,7 +154,7 @@ Membre du collectif [Philomel](https://philomel.hypotheses.org/annuaire/profil-d
 ## Parcours Académique  <a name="4"></a>
 2016/20 - Doctorat de Sociologie à Sorbonne Université
 
-Thèse sous la direction de Didier Lapeyronnie | **« Avoir une réputation »** Etude du (cyber)harcèlement scolaire comme risque réputationnel genré
+Thèse sous la direction de Didier Lapeyronnie | [**« Avoir une réputation »** Etude du (cyber)harcèlement scolaire comme risque réputationnel genré](https://www.gemass.fr/margot-deage-20-novembre-2020)
 
 2014/16 - Master de Sociologie à Sorbonne Université
 
