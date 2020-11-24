@@ -1,30 +1,13 @@
----
-layout: page
-title: About
----
+# Margot Déage
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+ **contact :** deage.m@gmail.com
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+### Affiliations actuelles
 
-There are currently two themes built on Poole:
+ATER à l'Université Paris-Est Créteil
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Membre du [LIRTES](https://lirtes.u-pec.fr/)(EA7313)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Chercheure associée au [GEMASS](https://www.gemass.fr/margot-deage)(UMR 8598)
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Membre du collectif [Philomel](https://philomel.hypotheses.org/annuaire/profil-de-margot-deage)
