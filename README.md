@@ -1,6 +1,6 @@
 <body class="theme-base-08">
-  ...
-</body>
+
+
 
 **contact :** deage.m@gmail.com
 
@@ -14,3 +14,4 @@ Chercheure associée au [GEMASS](https://www.gemass.fr/margot-deage)(UMR 8598)
 
 Membre du collectif [Philomel](https://philomel.hypotheses.org/annuaire/profil-de-margot-deage)
 
+</body>
