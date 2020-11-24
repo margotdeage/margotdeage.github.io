@@ -1,11 +1,9 @@
 
-### Docteure en sociologie
+**contact :** deage.m@gmail.com
 
-**Thématiques de recherche :** réputation, confiance, numérique, harcèlement, jeunesse, genre, éducation
+![Image](C:\Users\Wa Ma\Pictures\Stalk.jpg)
 
-**Contact :** deage.m@gmail.com
-
-### Affiliations actuelles
+## Affiliations actuelles
 
 ATER à l'Université Paris-Est Créteil
 
@@ -14,6 +12,8 @@ Membre du [LIRTES](https://lirtes.u-pec.fr/)(EA7313)
 Chercheure associée au [GEMASS](https://www.gemass.fr/margot-deage)(UMR 8598)
 
 Membre du collectif [Philomel](https://philomel.hypotheses.org/annuaire/profil-de-margot-deage)
+
+```markdown
 
 1. [Activités de recherche](#1)
     1. [Publications](#1a)
@@ -31,11 +31,13 @@ Membre du collectif [Philomel](https://philomel.hypotheses.org/annuaire/profil-d
     3. [Médias](#3c)
 4. [Parcours Académique](#4)
 
+```
+
 ## Activités de recherche <a name="1"></a>
 
 ### Publications <a name="1a"></a>
 
-2021 [à paraître] – « Elle fait trop sa meuf » : manifestations du genre féminin au collège et en ligne, Collectif Philomel, Sorbonne Université Presses 
+2021 [_à paraître_] – « Elle fait trop sa meuf » : manifestations du genre féminin au collège et en ligne, Collectif Philomel, Sorbonne Université Presses 
 
 2018 – [S’exposer sur un réseau fantôme : Snapchat et la réputation des collégiens en milieu populaire](https://www.cairn.info/journal-reseaux-2018-2-page-147.htm) Réseaux, 208,(2), 147-172.
 
@@ -171,4 +173,3 @@ M1 – Mention Bien | Mémoire sous la direction de Nathalie Bulle  | « Confier
 2010/11 - CPGE A/L au Lycée Champollion de Grenoble. Mention B.
 
 2010 - Baccalauréat ES Lycée de la Versoie, Thonon-Les-Bains. Mention Très Bien.
-
