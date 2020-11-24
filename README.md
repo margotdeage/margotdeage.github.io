@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**margotdeage/margotdeage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Docteure en sociologie
 
-Here are some ideas to get you started:
+**Thématiques de recherche :** réputation, confiance, numérique, harcèlement, jeunesse, genre, éducation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Contact :** deage.m@gmail.com
+
+### Affiliations actuelles
+
+ATER à l'Université Paris-Est Créteil
+
+Membre du [LIRTES](https://lirtes.u-pec.fr/)(EA7313)
+
+Chercheure associée au [GEMASS](https://www.gemass.fr/margot-deage)(UMR 8598)
+
+Membre du collectif [Philomel](https://philomel.hypotheses.org/annuaire/profil-de-margot-deage)
