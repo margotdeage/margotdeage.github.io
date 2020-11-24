@@ -1,7 +1,6 @@
 
 **contact :** deage.m@gmail.com
 
-```markdown
 ## Affiliations actuelles
 
 ATER à l'Université Paris-Est Créteil
@@ -12,7 +11,6 @@ Chercheure associée au [GEMASS](https://www.gemass.fr/margot-deage)(UMR 8598)
 
 Membre du collectif [Philomel](https://philomel.hypotheses.org/annuaire/profil-de-margot-deage)
 
-```
 
 1. [Activités de recherche](#1)
     1. [Publications](#1a)
