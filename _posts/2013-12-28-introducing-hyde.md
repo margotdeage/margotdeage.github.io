@@ -1,37 +1,46 @@
 ---
 layout: post
-title: Introducing Hyde
+title: Margot Déage
 ---
 
-Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
-### Built on Poole
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
+## Activités de recherche <a name="1"></a>
 
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
+### Publications <a name="1a"></a>
 
-### Hyde features
+2021 [_à paraître_] – « Elle fait trop sa meuf » : manifestations du genre féminin au collège et en ligne, Collectif Philomel, Sorbonne Université Presses 
 
-In addition to the features of Poole, Hyde adds the following:
+2018 – [S’exposer sur un réseau fantôme : Snapchat et la réputation des collégiens en milieu populaire](https://www.cairn.info/journal-reseaux-2018-2-page-147.htm) Réseaux, 208,(2), 147-172.
 
-* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
-* [Eight optional color schemes](https://github.com/poole/hyde#themes), available via `<body>` classes
+### Notes de Lecture <a name="1b"></a>
 
-[Head to the readme](https://github.com/poole/hyde#readme) to learn more.
+2020 – [Marie BERGSTRÖM, Les nouvelles lois de l’amour : sexualité, couple et rencontres au temps du numérique. , Paris, La Découverte, 2019, 220 p. »](https://www.cairn.info/revue-reseaux-2020-1-page-241.html), Réseaux, 2020/1 (N° 219), p. 241-246.
 
-### Browser support
+### Communications <a name="1c"></a>
 
-Hyde is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
+2021 – The Snapchat Effect: From Deeper Copresences to Higher Reputational Risks Among Pupils, IVe forum ISA, en ligne, février.
 
-### Download
+2021 – Sexual Reputations in the Connected Middle Schools: Pupils Shaming Peers’ Bodies Off and Online, IVe forum ISA en ligne, février.
 
-Hyde is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/hyde">GitHub repository</a> for downloads, bug reports, and features requests.
+2019 – ‘Elle fait trop sa meuf ’ : variation des manifestations du genre au collège et en ligne, Le Genre Manifeste, Colloque fondateur de Philomel, Sorbonne Université, Paris, 8 novembre. 
+ 
+2019 – Nouvelles coprésences, nouveaux classements ? Images numériques et constitution du groupe de pairs au collège, Congrès de l’Association Française de Sociologie, RT Jeunesse et Sexualité, Aix-En-Provence, 28 août.
 
-Thanks!
+2019 – Faire des rencontres sur une application pour amis proches. Les usages des collégiens Francilien subvertissent les scripts de Snapchat, Journées doctorales de l’Université de Louvain, Appropriation des objets numériques, 9 juillet.
+
+2019 – “Don’t you trust me ?" : teenagers challenging friendship on Snapchat, ESCM 2019, 6th European Conference on Social Media, Université de Brighton, 13 juin.
+
+2019 – Écrire sa thèse en bande dessinée, FDS2019, Telling science, Drawing science, Angoulême, 17 mai. 
+
+2019 - Les réseaux sociaux sont-ils des mobilisateurs de la reconnaissance sociale des différentes identités de genre en France ?, COMAD, Esupcom Paris, 17 avril. 
+
+2018 – "Faire une réputation", La dynamique de l’engagement amical à l’adolescence. Discussion : Olivier Galland. Journée doctorale du GEMASS, Paris, 20 juin.
+
+2018 – “Cyberbullying victims might commit suicide”, The moral panic aftermaths’ on social media in French secondary schools. Suicide, society and crisis, Sheffield, 18 mai.
+
+2017 – S’exhiber sur un réseau fantôme. Snapchat et la réputation des collégiens en milieu populaire. Discussion : Marie Trespeuch Séminaire interne du GEMASS, Paris, 8 novembre.
+
+### Posters <a name="1c"></a>
+
+2019 – The e-Reputation effect : seeing myself seen on Snapchat, ESCM 2019, 6th European Conference on Social Media, Université de Brighton, 13 juin.
