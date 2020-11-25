@@ -1,3 +1,8 @@
+---
+layout: page
+title: a propos
+---
+
 # A propos
 
  **contact :** deage.m@gmail.com
