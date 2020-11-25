@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            Margot Déage
 tagline:          'Docteure en sociologie'
 url:              http://margotdeage.github.io
-baseurl:          /
+baseurl:          /hyde/
 
 author:
   name:           'Margot Déage'
