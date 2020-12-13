@@ -25,7 +25,11 @@ title: Médiation scientifique
 
 2019 - [BD « Sciences en bulles » : Mot de passe « réputation »](https://theconversation.com/bd-sciences-en-bulles-mot-de-passe-reputation-124921), TheConversation, Paris, 9 octobre.
 
+![image](https://images.theconversation.com/files/296006/original/file-20191008-128655-ksnegl.png?ixlib=rb-1.1.0&q=45&auto=format&w=1000&fit=clip)
+
 2018 - [Pourquoi les collégiens préfèrent-ils snapchat et ses messages fantômes ?](https://www.inaglobal.fr/pourquoi-les-collegiens-preferent-ils-snapchat-et-ses-messages-fantomes), InaGlobal, Paris, 21 novembre.
 
 2017 - [Gagner... et perdre sa réputation : comprendre le harcèlement au collège.](https://www.youtube.com/watch?v=QChT5wCes94&ab_channel=Facult%C3%A9desLettresdeSorbonneUniversit%C3%A9) Objet de Recherche. Vidéo du service audiovisuel de Sorbonne Université. Septembre.
+
+![Viédo](https://www.youtube.com/watch?v=QChT5wCes94&ab_channel=Facult%C3%A9desLettresdeSorbonneUniversit%C3%A9)
 
