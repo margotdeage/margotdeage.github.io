@@ -19,4 +19,11 @@ title: A propos
 
 * Membre du collectif [Philomel](https://philomel.hypotheses.org/annuaire/profil-de-margot-deage)
 
+
+### Liens
+
+* [Linkedin](https://www.linkedin.com/in/margot-d%C3%A9age-435a3a170/?originalSubdomain=fr)
+* [Twitter](https://twitter.com/stalkologist)
+* [Google Scholar](https://scholar.google.fr/citations?user=CwkHhTcAAAAJ&hl=fr)
+* [Academia](https://u-pec.academia.edu/MargotD%C3%A9age)
  
