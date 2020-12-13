@@ -7,9 +7,7 @@ title: Bande Dessinée
 Extrait de la BD « Sciences en bulles » est publié dans le cadre de la Fête de la science 2019, illustrée et scénarisée par Peb&Fox.
 <div class="message">
 Le harcèlement à l’école n’est pas nouveau : les premières recherches sur le sujet, menées en Suède, remontent aux années 1970. En France pourtant, les politiques publiques ne s’intéressent à ce problème que depuis 2010 et la loi contre le harcèlement scolaire ne date que de 2014 !
-
 La plupart des travaux menés sur le sujet sont soit épidémiologiques – ils mesurent la diffusion du phénomène –, soit psychologiques – ils étudient ses impacts sur la santé mentale et physique. Pourtant, le harcèlement est aussi une question sociologique, car il est lié à la position des individus au sein du groupe.
-
 À l’aide de la sociologie des réputations, je cherche à déceler, au collège et en ligne, les processus de groupe qui conduisent à stigmatiser et à harceler un élève. Avec l’espoir que la connaissance des causes sociales de ces statuts négatifs permettra de repérer les situations à risque et d’y remédier… avant qu’il ne soit trop tard.
 </div>
 
