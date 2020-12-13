@@ -41,4 +41,3 @@ title: Enseignements
 ## Vacations à Sorbonne Université 
 
 2015/16 - Tutorat, L1 & L2 de sociologie. Sorbonne Université, Centre Clignancourt. 24 heures.
-
