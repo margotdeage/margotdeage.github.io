@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Accueil
+title: A propos
 ---
 
 
