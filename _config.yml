@@ -4,13 +4,13 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
+relative_permalinks: true
 
 
 # Setup
 title:            Margot Déage
 description:      'Docteure en sociologie'
-url:              http://hyde.getpoole.com
-baseurl:          /
+
 
 author:
   name:           'Margot Déage'
@@ -18,10 +18,5 @@ author:
 
 paginate:         5
 
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde
 
 theme: jekyll-theme-slate
