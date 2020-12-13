@@ -3,7 +3,7 @@ layout: post
 title: Affiliations actuelles
 ---
 
-![placeholder](C:\Users\Wa Ma\Pictures "Margot Déage")
+
 
 ATER à l'Université Paris-Est Créteil
 
