@@ -3,7 +3,7 @@ layout: post
 title: Affiliations actuelles
 ---
 
-![placeholder](https://user-images.githubusercontent.com/38110079/102014499-94ed6600-3d56-11eb-9695-e76bfc436733.jpg "Margot Déage")
+![placeholder](https://user-images.githubusercontent.com/38110079/102015162-26120c00-3d5a-11eb-9d97-658c91e8464c.jpeg "Margot Déage")
 
 ATER à l'Université Paris-Est Créteil
 
