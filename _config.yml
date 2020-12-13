@@ -4,7 +4,7 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+
 
 # Setup
 title:            Margot Déage
@@ -14,7 +14,7 @@ baseurl:          /hyde/
 
 author:
   name:           'Margot Déage'
-  url:            https://twitter.com/stalkologist
+
 
 paginate:         5
 
