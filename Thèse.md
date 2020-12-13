@@ -9,12 +9,12 @@ title: Thèse
 M. Didier LAPEYRONNIE – Professeur à Sorbonne Université
 
 ##### Jury 
-Mme Catherine BLAYA – Professeure, INSPE de Nice
-M. Dominique CARDON – Professeur, Sciences Po Paris
-M. Pierre-Marie CHAUVIN – Maître de conférences à Sorbonne Université
-M. François DUBET – Professeur émérite, Université de Bordeaux
-Mme Dominique PASQUIER – Directrice de recherche au CNRS, Cerlis, Université de Paris
-Mme Agnès HENRIOT-VAN ZANTEN – Directrice de recherche au CNRS, Sciences Po Paris, OSC
+* Mme Catherine BLAYA, Professeure, INSPE de Nice
+* M. Dominique CARDON, Professeur, Sciences Po Paris
+* M. Pierre-Marie CHAUVIN, Maître de conférences à Sorbonne Université
+* M. François DUBET, Professeur émérite, Université de Bordeaux
+* Mme Dominique PASQUIER, Directrice de recherche au CNRS, Cerlis, Université de Paris
+* Mme Agnès HENRIOT-VAN ZANTEN, Directrice de recherche au CNRS, Sciences Po Paris, OSC
 
 ##### Soutenance
 Vendredi 20 novembre 2020, en ligne
