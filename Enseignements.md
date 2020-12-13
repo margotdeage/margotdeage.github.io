@@ -3,11 +3,6 @@ layout: page
 title: Enseignements
 ---
 
-
-<div class="page">
-  <h1 class="page-title">{{ Enseignements }}</h1>
-  {{ 
-
 ## ATER à l’Université Paris Est Créteil 
 
 2020/21 - Introduction à la sociologie, L1 sciences de l’éducation et sciences sociales (SESS). UPEC. Site Pyramide. 40 heures.
@@ -46,5 +41,4 @@ title: Enseignements
 ## Vacations à Sorbonne Université 
 
 2015/16 - Tutorat, L1 & L2 de sociologie. Sorbonne Université, Centre Clignancourt. 24 heures.
-}}
-</div>
+
