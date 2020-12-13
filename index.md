@@ -3,7 +3,7 @@ layout: post
 title: Affiliations actuelles
 ---
 
-![placeholder](https://www.gemass.fr/IMG/arton4689.jpg?1570017273/200x200 "Margot Déage")
+
 
 ATER à l'Université Paris-Est Créteil
 
