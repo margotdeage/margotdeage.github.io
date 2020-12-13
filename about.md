@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A propos
+title: About
 ---
 
 ## Affiliations actuelles
