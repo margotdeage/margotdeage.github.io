@@ -1,6 +1,7 @@
-
-title: About
-
+---
+layout: post
+title: A propos
+---
 
 ## Affiliations actuelles
 
