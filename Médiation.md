@@ -4,8 +4,8 @@ title: Médiation scientifique
 ---
 
 <div class="page">
-  <h1 class="page-title">{{ page.title }}</h1>
-  {{ content }}
+  <h1 class="page-title">{{Médiation scientifique}}</h1>
+  {{ 
 
 ## Interventions
 
@@ -31,7 +31,7 @@ title: Médiation scientifique
 
 2018 - [Pourquoi les collégiens préfèrent-ils snapchat et ses messages fantômes ?](https://www.inaglobal.fr/pourquoi-les-collegiens-preferent-ils-snapchat-et-ses-messages-fantomes), InaGlobal, Paris, 21 novembre.
 
-2017 - [Gagner... et perdre sa réputation : comprendre le harcèlement au collège.](https://www.youtube.com/watch?v=QChT5wCes94&ab_channel=Facult%C3%A9desLettresdeSorbonneUniversit%C3%A9) Objet de Recherche. Vidéo du service audiovisuel de Sorbonne Université. Septembre.
+2017 - [Gagner... et perdre sa réputation : comprendre le harcèlement au collège.](https://www.youtube.com/watch?v=QChT5wCes94&ab_channel=Facult%C3%A9desLettresdeSorbonneUniversit%C3%A9) Objet de Recherche. Vidéo du service audiovisuel de Sorbonne Université. Septembre.}}
 
 
 </div>
