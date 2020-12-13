@@ -1,9 +1,8 @@
 ---
 layout: post
-title: A propos
+title: Affiliations actuelles
 ---
 
-## Affiliations actuelles
 
 ATER à l'Université Paris-Est Créteil
 
@@ -17,4 +16,4 @@ Membre du collectif [Philomel](https://philomel.hypotheses.org/annuaire/profil-d
 
  
 
-**contact :** deage.m@gmail.com
+
