@@ -2,6 +2,7 @@
 layout: page
 title: Recherche
 ---
+<div class="page">
 
 ## Publications 
 
@@ -51,4 +52,6 @@ title: Recherche
 
 2016/17 - Membre de l’équipe d’organisation du cycle de conférences Actualité des Sciences Sociales, avec Pierre-Marie Chauvin et la revue le SocioPath. Sorbonne Université
 
-
+  <h1 class="page-title">{{ page.title }}</h1>
+  {{ content }}
+</div>
