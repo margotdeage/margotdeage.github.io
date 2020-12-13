@@ -14,4 +14,3 @@ Chercheure associée au [GEMASS](https://www.gemass.fr/margot-deage)(UMR 8598)
 Membre du collectif [Philomel](https://philomel.hypotheses.org/annuaire/profil-de-margot-deage)
 <p class="message">
  
-**Contact : ** deage.m@gmail.com
