@@ -10,12 +10,12 @@ permalink:        pretty
 # Setup
 title:            Margot Déage
 description:      'Docteure en sociologie'
-url:              http://hyde.getpoole.com
+url:              https://margotdeage.github.io/
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Margot Déage'
+  url:            https://twitter.com/stalkologist
 
 paginate:         5
 
