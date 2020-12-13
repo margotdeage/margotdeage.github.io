@@ -3,7 +3,7 @@ layout: page
 title: Médiation scientifique
 ---
 
-## Interventions
+### Interventions
 
 2020 – Se faire « afficher » sur les réseaux, Intervention en au Lycée Français de San Francisco, 28 avril.
 
@@ -21,7 +21,7 @@ title: Médiation scientifique
 
 2017 - Etudier les réputations en sociologie. Pint Of Science Etre ou ne pas être réputé, Paris, 17 mai.
 
-## Médias  
+### Médias  
 
 2019 - [BD « Sciences en bulles » : Mot de passe « réputation »](https://theconversation.com/bd-sciences-en-bulles-mot-de-passe-reputation-124921), TheConversation, Paris, 9 octobre.
 
