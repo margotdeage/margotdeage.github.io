@@ -3,10 +3,6 @@ layout: page
 title: Médiation scientifique
 ---
 
-<div class="page">
-  <h1 class="page-title">{{Médiation scientifique}}</h1>
-  {{ content }}
-
 ## Interventions
 
 2020 – Se faire « afficher » sur les réseaux, Intervention en au Lycée Français de San Francisco, 28 avril.
@@ -33,5 +29,3 @@ title: Médiation scientifique
 
 2017 - [Gagner... et perdre sa réputation : comprendre le harcèlement au collège.](https://www.youtube.com/watch?v=QChT5wCes94&ab_channel=Facult%C3%A9desLettresdeSorbonneUniversit%C3%A9) Objet de Recherche. Vidéo du service audiovisuel de Sorbonne Université. Septembre.
 
-
-</div>
