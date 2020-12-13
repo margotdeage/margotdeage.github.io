@@ -3,19 +3,17 @@ layout: page
 title: Recherche
 ---
 
-## Activités de recherche 
-
-### Publications 
+## Publications 
 
 2021 [_à paraître_] – « Elle fait trop sa meuf » : manifestations du genre féminin au collège et en ligne, Collectif Philomel, Sorbonne Université Presses 
 
 2018 – [S’exposer sur un réseau fantôme : Snapchat et la réputation des collégiens en milieu populaire](https://www.cairn.info/journal-reseaux-2018-2-page-147.htm) Réseaux, 208,(2), 147-172.
 
-### Notes de Lecture 
+## Notes de Lecture 
 
 2020 – [Marie BERGSTRÖM, Les nouvelles lois de l’amour : sexualité, couple et rencontres au temps du numérique. , Paris, La Découverte, 2019, 220 p. »](https://www.cairn.info/revue-reseaux-2020-1-page-241.html), Réseaux, 2020/1 (N° 219), p. 241-246.
 
-### Communications 
+## Communications 
 
 2021 – The Snapchat Effect: From Deeper Copresences to Higher Reputational Risks Among Pupils, IVe forum ISA, en ligne, février.
 
@@ -39,7 +37,11 @@ title: Recherche
 
 2017 – S’exhiber sur un réseau fantôme. Snapchat et la réputation des collégiens en milieu populaire. Discussion : Marie Trespeuch Séminaire interne du GEMASS, Paris, 8 novembre.
 
-### Animation de la recherche
+## Posters 
+
+2019 – The e-Reputation effect : seeing myself seen on Snapchat, ESCM 2019, 6th European Conference on Social Media, Université de Brighton, 13 juin.
+
+## Animation de la recherche
 
 2020 - Participation à la troisième séance de l'atelier de lecture "Discussions contemporaines en sciences sociales": Enquêtes de terrain et espaces virtuels: la net-ethnographie et les défis actuels de la recherche de terrain, animé par Yacine Amenna, Cecilia Paradiso, Vincenzo Scamardella et Davide Cacchioni, EHESS, Centre Norbert Elias
 
@@ -49,6 +51,4 @@ title: Recherche
 
 2016/17 - Membre de l’équipe d’organisation du cycle de conférences Actualité des Sciences Sociales, avec Pierre-Marie Chauvin et la revue le SocioPath. Sorbonne Université
 
-### Posters 
 
-2019 – The e-Reputation effect : seeing myself seen on Snapchat, ESCM 2019, 6th European Conference on Social Media, Université de Brighton, 13 juin.
