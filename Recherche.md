@@ -39,6 +39,16 @@ title: Recherche
 
 2017 – S’exhiber sur un réseau fantôme. Snapchat et la réputation des collégiens en milieu populaire. Discussion : Marie Trespeuch Séminaire interne du GEMASS, Paris, 8 novembre.
 
+### Animation de la recherche
+
+2020 - Participation à la troisième séance de l'atelier de lecture "Discussions contemporaines en sciences sociales": Enquêtes de terrain et espaces virtuels: la net-ethnographie et les défis actuels de la recherche de terrain, animé par Yacine Amenna, Cecilia Paradiso, Vincenzo Scamardella et Davide Cacchioni, EHESS, Centre Norbert Elias
+
+2017/20 - Représentante des doctorants du GEMASS
+
+2017 - Co-organisatrice de la journée doctorale du GEMASS, Paris, 21 juin.
+
+2016/17 - Membre de l’équipe d’organisation du cycle de conférences Actualité des Sciences Sociales, avec Pierre-Marie Chauvin et la revue le SocioPath. Sorbonne Université
+
 ### Posters 
 
 2019 – The e-Reputation effect : seeing myself seen on Snapchat, ESCM 2019, 6th European Conference on Social Media, Université de Brighton, 13 juin.
