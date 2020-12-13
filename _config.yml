@@ -10,7 +10,7 @@ permalink:        pretty
 # Setup
 title:            Margot Déage
 description:      'Docteure en sociologie'
-url:              https://margotdeage.github.io/
+url:              /
 baseurl:          /
 
 author:
