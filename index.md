@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: page
 title: A propos
 ---
 
-![placeholder](https://user-images.githubusercontent.com/38110079/102015162-26120c00-3d5a-11eb-9d97-658c91e8464c.jpeg "Margot Déage")
 
 <div class="message">
   contact : deage.m@gmail.com
