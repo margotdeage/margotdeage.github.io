@@ -44,8 +44,6 @@ title: Recherche
 
 ### Animation de la recherche
 
-2020 - Participation à la troisième séance de l'atelier de lecture "Discussions contemporaines en sciences sociales": Enquêtes de terrain et espaces virtuels: la net-ethnographie et les défis actuels de la recherche de terrain, animé par Yacine Amenna, Cecilia Paradiso, Vincenzo Scamardella et Davide Cacchioni, EHESS, Centre Norbert Elias
-
 2017/20 - Représentante des doctorants du GEMASS
 
 2017 - Co-organisatrice de la journée doctorale du GEMASS, Paris, 21 juin.
