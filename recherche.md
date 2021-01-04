@@ -24,7 +24,7 @@ title: Recherche
  
 2019 – Nouvelles coprésences, nouveaux classements ? Images numériques et constitution du groupe de pairs au collège, Congrès de l’Association Française de Sociologie, RT Jeunesse et Sexualité, Aix-En-Provence, 28 août.
 
-2019 – Faire des rencontres sur une application pour amis proches. Les usages des collégiens Francilien subvertissent les scripts de Snapchat, Journées doctorales de l’Université de Louvain, Appropriation des objets numériques, 9 juillet.
+2019 – Faire des rencontres sur une application pour amis proches. Les usages des collégiens franciliens subvertissent les scripts de Snapchat, Journées doctorales de l’Université de Louvain, Appropriation des objets numériques, 9 juillet.
 
 2019 – “Don’t you trust me ?" : teenagers challenging friendship on Snapchat, ESCM 2019, 6th European Conference on Social Media, Université de Brighton, 13 juin.
 
