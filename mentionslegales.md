@@ -28,11 +28,11 @@ Les informations et documents du site sont présentés à titre indicatif, n’o
 Le propriétaire du site ne peut être tenu responsable des dommages directs et indirects consécutifs à l’accès au site.
 
 ### Propriété intellectuelle
-Sauf mention contraire, tous les éléments accessibles sur le site (textes, images, graphismes, logo, icônes, sons, logiciels, etc.) restent la propriété exclusive de leurs auteurs, en ce qui concerne les droits de propriété intellectuelle ou les droits d’usage. 1
+Sauf mention contraire, tous les éléments accessibles sur le site (textes, images, graphismes, logo, icônes, sons, logiciels, etc.) restent la propriété exclusive de leurs auteurs, en ce qui concerne les droits de propriété intellectuelle ou les droits d’usage. 
 
 Toute reproduction, représentation, modification, publication, adaptation de tout ou partie des éléments du site, quel que soit le moyen ou le procédé utilisé, est interdite, sauf autorisation écrite préalable de l’auteur.23
 
-Toute exploitation non autorisée du site ou de l’un quelconque des éléments qu’il contient est considérée comme constitutive d’une contrefaçon et poursuivie. 4
+Toute exploitation non autorisée du site ou de l’un quelconque des éléments qu’il contient est considérée comme constitutive d’une contrefaçon et poursuivie. 
 
 Les marques et logos reproduits sur le site sont déposés par les sociétés qui en sont propriétaires.
 
@@ -50,18 +50,18 @@ Le propriétaire du site se réserve le droit de demander la suppression d’un 
 
 
 ### Confidentialité
-Tout utilisateur dispose d’un droit d’accès, de rectification et d’opposition aux données personnelles le concernant, en effectuant sa demande écrite et signée, accompagnée d’une preuve d’identité. 5678
+Tout utilisateur dispose d’un droit d’accès, de rectification et d’opposition aux données personnelles le concernant, en effectuant sa demande écrite et signée, accompagnée d’une preuve d’identité.
 
 Le site ne recueille pas d’informations personnelles, et n’est pas assujetti à déclaration à la CNIL. 
 
-<div class="message">
-* Articles L111-1 et suivants du Code de la Propriété Intellectuelle du 1er juillet 1992 
-* Article 41 de la loi du 11 mars 1957 
-* Article L. 226-13 du Code pénal et la Directive Européenne du 24 octobre 1995 
-* Articles L.335-2 et suivants du Code de Propriété Intellectuelle 
-* Loi n° 78-87 du 6 janvier 1978, modifiée par la loi n° 2004-801 du 6 août 2004, relative à l’informatique, aux fichiers et aux libertés 
-* Articles 38 et suivants de la loi 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés 
-* Loi du 1er juillet 1998 transposant la directive 96/9 du 11 mars 1996 relative à la protection juridique des bases de données 
-* Loi n° 2004-801 du 6 août 2004 
-* Article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l’économie numérique 
-</div>
+### Textes de référence
+Articles L111-1 et suivants du Code de la Propriété Intellectuelle du 1er juillet 1992 
+Article 41 de la loi du 11 mars 1957 
+Article L. 226-13 du Code pénal et la Directive Européenne du 24 octobre 1995 
+Articles L.335-2 et suivants du Code de Propriété Intellectuelle 
+Loi n° 78-87 du 6 janvier 1978, modifiée par la loi n° 2004-801 du 6 août 2004, relative à l’informatique, aux fichiers et aux libertés 
+Articles 38 et suivants de la loi 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés 
+Loi du 1er juillet 1998 transposant la directive 96/9 du 11 mars 1996 relative à la protection juridique des bases de données 
+Loi n° 2004-801 du 6 août 2004 
+Article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l’économie numérique 
+
