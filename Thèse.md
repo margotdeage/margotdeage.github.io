@@ -5,8 +5,6 @@ title: Thèse
 
 ### « Avoir une réputation » : étude du (cyber)harcèlement scolaire comme risque réputationnel genré
 
-![alt text](https://larevuedesmedias.ina.fr/sites/default/files/styles/landscape_768x/public/2019-03/snpachat_r%C3%A9seau%20pr%C3%A9f%C3%A9r%C3%A9%20adolescents%20-%20Laura%20Paoli-Pandolfi_1.jpg?itok=hlBnQ_8J)
-
 ##### Direction 
 M. Didier LAPEYRONNIE – Professeur à Sorbonne Université
 
