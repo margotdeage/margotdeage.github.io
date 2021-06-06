@@ -1,3 +1,8 @@
+---
+layout: page
+title: Publications
+---
+
 ### Revue à comité de lecture
 
 2018 – [S’exposer sur un réseau fantôme : Snapchat et la réputation des collégiens en milieu populaire](https://www.cairn.info/journal-reseaux-2018-2-page-147.htm) Réseaux, 208,(2), 147-172.
