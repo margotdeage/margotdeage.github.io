@@ -9,6 +9,7 @@ title: Médiation scientifique
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YCTQSb8bGU0?start=2135" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 2020 – Se faire « afficher » sur les réseaux, Intervention en au Lycée Français de San Francisco, 28 avril.
 
 2019 - Doctorante ambassadrice de la Fête de la Science pour Sorbonne Université
@@ -31,6 +32,8 @@ title: Médiation scientifique
 
 2018 - [Pourquoi les collégiens préfèrent-ils snapchat et ses messages fantômes ?](https://www.inaglobal.fr/pourquoi-les-collegiens-preferent-ils-snapchat-et-ses-messages-fantomes), InaGlobal, Paris, 21 novembre.
 
-2017 - [Gagner... et perdre sa réputation : comprendre le harcèlement au collège.](https://www.youtube.com/watch?v=QChT5wCes94&ab_channel=Facult%C3%A9desLettresdeSorbonneUniversit%C3%A9) Objet de Recherche. Vidéo du service audiovisuel de Sorbonne Université. Septembre.
+2017 - Gagner... et perdre sa réputation : comprendre le harcèlement au collège. Objet de Recherche. Vidéo du service audiovisuel de Sorbonne Université. Septembre.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QChT5wCes94" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
