@@ -14,6 +14,8 @@ title: Médiation scientifique
 
 2019 - Doctorante ambassadrice de la Fête de la Science pour Sorbonne Université
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TS53MWJyBPA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 2019 – « Mot de passe : Réputation », Livre de Science, bande dessinée illustrée par Peb&Fox, en partenariat avec la CPU, le SNE et l’Université de Lorraine, octobre.
 
 2019 – S’exposer sur un réseau fantôme. Pint Of Science La science éclaire notre quotidien, Thorigny, 20 mai
