@@ -7,6 +7,7 @@ title: Communications
 ### Invitations 
 
 2021 - Séminaire de Pascal Haag et de Serge Paugam sur le « Bien-être et mal-être à l'école », EHESS, 18 mars  « Se faire des potes »  Une garantie contre le mal-être au collège ?  
+
 2019 - FDS2019, Telling science, Drawing science, Angoulême, 17 mai 
 Ecrire sa thèse en bande dessinée Témoignages de doctorants
 
