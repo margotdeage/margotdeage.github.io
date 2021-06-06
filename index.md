@@ -25,5 +25,8 @@ title: A propos
 * [Linkedin](https://www.linkedin.com/in/margot-d%C3%A9age-435a3a170/?originalSubdomain=fr)
 * [Twitter](https://twitter.com/stalkologist)
 * [Google Scholar](https://scholar.google.fr/citations?user=CwkHhTcAAAAJ&hl=fr)
+* [Researchgate](https://www.researchgate.net/profile/Margot-Deage)
 * [Academia](https://u-pec.academia.edu/MargotD%C3%A9age)
  
+ 
+
