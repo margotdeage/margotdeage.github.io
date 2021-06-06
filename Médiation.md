@@ -5,6 +5,10 @@ title: Médiation scientifique
 
 ### Interventions
 
+2021 – Table ronde sur l'impact des réseaux sociaux,  Mahalia Zone Libre !, La Bellevilloise, 25 avril
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YCTQSb8bGU0?start=2135" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 2020 – Se faire « afficher » sur les réseaux, Intervention en au Lycée Français de San Francisco, 28 avril.
 
 2019 - Doctorante ambassadrice de la Fête de la Science pour Sorbonne Université
