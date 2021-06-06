@@ -8,39 +8,13 @@ title: A propos
   contact : deage.m@gmail.com
 </div>
 
-<Thématiques de recherche>
-  <thead>
-    <tr>
-      <th>Communication</th>
-      <th>Jeunesse</th>
-      <th>Méthodes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Confiance</td>
-      <td>Violence</td>
-      <td>Interdisciplinarité</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Réputation</td>
-      <td>Harcèlement</td>
-      <td>Nethnographie</td>
-    </tr>
-    <tr>
-      <td>Numérique</td>
-      <td>Socialisation</td>
-      <td>Ethnographie</td>
-    </tr>
-    <tr>
-      <td>Réseaux sociaux</td>
-      <td>Genre</td>
-      <td>Analyse de base de données</td>
-    </tr>
-  </tbody>
-</table>
+
+
+### Thématiques de recherche
+
+| Communication| Education  | Réputation  | Violence |
+| Numérique | Jeunesse  | Confiance | Méthodes Mixtes  |
+| Réseaux sociaux  | Genre | Rumeurs  | Interdisciplinarité |
 
 
 ### Affiliations actuelles
