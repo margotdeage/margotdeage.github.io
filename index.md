@@ -13,9 +13,10 @@ title: A propos
 
 ### Thématiques de recherche
 
-| Communication| Education  | Réputation  | Violence |
-| Numérique | Jeunesse  | Confiance | Méthodes Mixtes  |
-| Réseaux sociaux  | Genre | Rumeurs  | Interdisciplinarité |
+| Communication| Education  | Réputation  | 
+| Numérique | Jeunesse  | Confiance | 
+| Réseaux sociaux  | Genre | Rumeurs  | 
+| Violence | Méthodes Mixtes  | Interdisciplinarité |
 
 
 ### Affiliations actuelles
