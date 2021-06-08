@@ -4,7 +4,8 @@ title: A propos
 ---
 
 
- 
+  <img src="https://github.com/margotdeage/margotdeage.github.io/blob/gh-pages/WhatsApp%20Image%202021-06-08%20at%2016.13.09.jpeg" alt="Margot Déage"   width="30%" height="30%"/>
+  
 <div class="message">
   contact : deage.m@gmail.com
 </div>
