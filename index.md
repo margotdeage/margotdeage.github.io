@@ -3,7 +3,10 @@ layout: page
 title: A propos
 ---
 
- ![alt text](https://www.gemass.fr/wp-content/uploads/2020/12/Margot_DEAGE.jpg) 
+ <img src="https://www.gemass.fr/wp-content/uploads/2020/12/Margot_DEAGE.jpg" 
+     width="200" 
+     height="200" />
+ 
  
 <div class="message">
   contact : deage.m@gmail.com
