@@ -56,13 +56,13 @@ title: A propos
 </a>
 
 <a href="https://scholar.google.fr/citations?user=CwkHhTcAAAAJ&hl=fr">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png"  width="20%" height="20%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png"  width="10%" height="10%">
 </a>
 
 <a href="https://www.researchgate.net/profile/Margot-Deage">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/2048px-ResearchGate_icon_SVG.svg.png" width="20%" height="20%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/2048px-ResearchGate_icon_SVG.svg.png" width="10%" height="10%">
 </a>
 
 <a href="https://u-pec.academia.edu/MargotD%C3%A9age">
-<img src="https://image.flaticon.com/icons/png/512/2111/2111319.png" width="20%" height="20%">
+<img src="https://image.flaticon.com/icons/png/512/2111/2111319.png" width="10%" height="10%">
 </a>
