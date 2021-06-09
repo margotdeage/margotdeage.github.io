@@ -28,6 +28,18 @@ title: A propos
 
 * Membre du collectif [Philomel](https://philomel.hypotheses.org/annuaire/profil-de-margot-deage)
 
+<a href="https://lirtes.u-pec.fr/">
+<img src="ici-l-adresse-de-l-image.jpg">
+</a>
+
+<a href="https://www.gemass.fr/member/deage-margot/">
+<img src="ici-l-adresse-de-l-image.jpg">
+</a>
+
+<a href="https://philomel.hypotheses.org/annuaire/profil-de-margot-deage">
+<img src="ici-l-adresse-de-l-image.jpg">
+</a>
+
 
 ### Liens
 
@@ -35,4 +47,22 @@ title: A propos
 |[Researchgate](https://www.researchgate.net/profile/Margot-Deage)| [Academia](https://u-pec.academia.edu/MargotD%C3%A9age)|
  
  
+<a href="https://www.linkedin.com/in/margot-d%C3%A9age-435a3a170/?originalSubdomain=fr">
+<img src="https://pcdn.sharethis.com/wp-content/themes/sharethis-custom/assets/images/linkedinimg%20copy.png">
+</a>
 
+<a href="https://twitter.com/stalkologist">
+<img src="https://pcdn.sharethis.com/wp-content/themes/sharethis-custom/assets/images/twitterimg%20copy.png">
+</a>
+
+<a href="https://scholar.google.fr/citations?user=CwkHhTcAAAAJ&hl=fr">
+<img src="https://hnhp.mnhn.fr/sites/hnhp/files/gs.jpg">
+</a>
+
+<a href="https://www.researchgate.net/profile/Margot-Deage">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/2048px-ResearchGate_icon_SVG.svg.png">
+</a>
+
+<a href="https://u-pec.academia.edu/MargotD%C3%A9age">
+<img src="https://c0.klipartz.com/pngpicture/256/180/sticker-png-academia-edu-research-compass-film-academy-computer-icons-others-emblem-logo-university-higher-education-academy.png">
+</a>
