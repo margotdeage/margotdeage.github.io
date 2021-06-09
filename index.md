@@ -3,7 +3,7 @@ layout: page
 title: A propos
 ---
 
-
+<img alt="Margot Déage" src="WhatsApp Image 2021-06-08 at 16.13.09.jpeg" />
 margot.deage@u-pec.fr
 
 ATER à l'Université Paris-Est Créteil
