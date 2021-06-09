@@ -4,9 +4,9 @@ title: A propos
 ---
 
 
-ATER à l'Université Paris-Est Créteil
+margot.deage@u-pec.fr
 
-Contact : margot.deage@u-pec.fr
+ATER à l'Université Paris-Est Créteil
 
 
 ### Thématiques de recherche
@@ -36,7 +36,7 @@ Contact : margot.deage@u-pec.fr
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png"  width="4%" height="4%">
 </a>
 <a href="https://www.researchgate.net/profile/Margot-Deage">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/2048px-ResearchGate_icon_SVG.svg.png" width=4%" height="4%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/1200px-ResearchGate_icon_SVG.svg.png" width=4%" height="4%">
 </a>
 <a href="https://u-pec.academia.edu/MargotD%C3%A9age">
 <img src="https://image.flaticon.com/icons/png/512/2111/2111319.png" width="4%" height="4%">
