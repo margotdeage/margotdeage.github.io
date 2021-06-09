@@ -32,10 +32,10 @@ Contact : deage.m@gmail.com
 ### Réseaux
  
 <a href="https://www.linkedin.com/in/margot-d%C3%A9age-435a3a170/?originalSubdomain=fr">
-<img src="https://pcdn.sharethis.com/wp-content/themes/sharethis-custom/assets/images/linkedinimg%20copy.png" width="90%" height="90%">
+<img src="https://pcdn.sharethis.com/wp-content/themes/sharethis-custom/assets/images/linkedinimg%20copy.png" width="13%" height="13%">
 </a>
 <a href="https://twitter.com/stalkologist">
-<img src="https://pcdn.sharethis.com/wp-content/themes/sharethis-custom/assets/images/twitterimg%20copy.png" width="90%" height="90%" >
+<img src="https://pcdn.sharethis.com/wp-content/themes/sharethis-custom/assets/images/twitterimg%20copy.png" width="13%" height="13%" >
 </a>
 <a href="https://scholar.google.fr/citations?user=CwkHhTcAAAAJ&hl=fr">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png"  width="13%" height="13%">
