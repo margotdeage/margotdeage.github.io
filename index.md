@@ -4,11 +4,7 @@ title: A propos
 ---
 
 ATER à l'Université Paris-Est Créteil
-
-<div class="message">
-  contact : deage.m@gmail.com
-</div>
-
+Contact : deage.m@gmail.com
 
 
 ### Thématiques de recherche
