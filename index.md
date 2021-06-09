@@ -33,11 +33,11 @@ title: A propos
 </a>
 
 <a href="https://www.gemass.fr/member/deage-margot/">
-<img src="https://lh3.googleusercontent.com/proxy/dXXSc4Ks4xzMeJC8EM9WUoai0GilvAQtcCUZx8Yvn-NT5kwLSwdPejiFHiICSd85YySAFclx3zhKhnqw26KWKI9wijyVaB2M14uYKB2aBZNcQsSjMuKvHTYpYvWUogf9ewJx4AU">
+<img src="https://lh3.googleusercontent.com/proxy/dXXSc4Ks4xzMeJC8EM9WUoai0GilvAQtcCUZx8Yvn-NT5kwLSwdPejiFHiICSd85YySAFclx3zhKhnqw26KWKI9wijyVaB2M14uYKB2aBZNcQsSjMuKvHTYpYvWUogf9ewJx4AU" width="20%" height="20%">
 </a>
 
 <a href="https://philomel.hypotheses.org/annuaire/profil-de-margot-deage">
-<img src="http://philomel.hypotheses.org/files/2019/04/logo-philomel-2-500x310.png">
+<img src="http://philomel.hypotheses.org/files/2019/04/logo-philomel-2-500x310.png" width="10%" height="10%">
 </a>
 
 
