@@ -3,7 +3,7 @@ layout: page
 title: A propos
 ---
 
-<img alt="Margot Déage" src="https://github.com/margotdeage/margotdeage.github.io/blob/d8f662e0227504994b0052427f6eaf9443bdd6a5/margotd%C3%A9%20(2).JPG"  width="18%" height="18%" />
+<img alt="Margot Déage" src="margotdé (2).JPG"  width="18%" height="18%" />
 
  margot.deage@u-pec.fr
  
