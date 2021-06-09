@@ -3,7 +3,8 @@ layout: page
 title: A propos
 ---
 
-  
+ATER à l'Université Paris-Est Créteil
+
 <div class="message">
   contact : deage.m@gmail.com
 </div>
@@ -20,14 +21,6 @@ title: A propos
 
 ### Affiliations actuelles
 
-* ATER à l'Université Paris-Est Créteil
-
-* Membre du [LIRTES](https://lirtes.u-pec.fr/)(EA7313)
-
-* Chercheure associée au [GEMASS](https://www.gemass.fr/member/deage-margot/)(UMR 8598)
-
-* Membre du collectif [Philomel](https://philomel.hypotheses.org/annuaire/profil-de-margot-deage)
-
 <a href="https://lirtes.u-pec.fr/">
 <img src="https://lirtes.u-pec.fr/uas/lirtes/LOGO_MOBILE/2018-Logo-LIRTES.svg">
 </a>
@@ -41,8 +34,7 @@ title: A propos
 </a>
 
 
-### Liens
-
+### Réseaux
  
 <a href="https://www.linkedin.com/in/margot-d%C3%A9age-435a3a170/?originalSubdomain=fr">
 <img src="https://pcdn.sharethis.com/wp-content/themes/sharethis-custom/assets/images/linkedinimg%20copy.png">
