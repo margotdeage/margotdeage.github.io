@@ -5,7 +5,7 @@ title: A propos
 
 ATER à l'Université Paris-Est Créteil
 
-Contact : deage.m@gmail.com
+Contact : margot.deage@u-pec.fr
 
 
 ### Thématiques de recherche
