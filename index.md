@@ -29,23 +29,20 @@ title: A propos
 * Membre du collectif [Philomel](https://philomel.hypotheses.org/annuaire/profil-de-margot-deage)
 
 <a href="https://lirtes.u-pec.fr/">
-<img src="ici-l-adresse-de-l-image.jpg">
+<img src="https://lirtes.u-pec.fr/uas/lirtes/LOGO_MOBILE/2018-Logo-LIRTES.svg">
 </a>
 
 <a href="https://www.gemass.fr/member/deage-margot/">
-<img src="ici-l-adresse-de-l-image.jpg">
+<img src="https://lh3.googleusercontent.com/proxy/dXXSc4Ks4xzMeJC8EM9WUoai0GilvAQtcCUZx8Yvn-NT5kwLSwdPejiFHiICSd85YySAFclx3zhKhnqw26KWKI9wijyVaB2M14uYKB2aBZNcQsSjMuKvHTYpYvWUogf9ewJx4AU">
 </a>
 
 <a href="https://philomel.hypotheses.org/annuaire/profil-de-margot-deage">
-<img src="ici-l-adresse-de-l-image.jpg">
+<img src="http://philomel.hypotheses.org/files/2019/04/logo-philomel-2-500x310.png">
 </a>
 
 
 ### Liens
 
-| [Linkedin](https://www.linkedin.com/in/margot-d%C3%A9age-435a3a170/?originalSubdomain=fr)|[Twitter](https://twitter.com/stalkologist)|[Google Scholar](https://scholar.google.fr/citations?user=CwkHhTcAAAAJ&hl=fr)|
-|[Researchgate](https://www.researchgate.net/profile/Margot-Deage)| [Academia](https://u-pec.academia.edu/MargotD%C3%A9age)|
- 
  
 <a href="https://www.linkedin.com/in/margot-d%C3%A9age-435a3a170/?originalSubdomain=fr">
 <img src="https://pcdn.sharethis.com/wp-content/themes/sharethis-custom/assets/images/linkedinimg%20copy.png">
@@ -64,5 +61,5 @@ title: A propos
 </a>
 
 <a href="https://u-pec.academia.edu/MargotD%C3%A9age">
-<img src="https://image.flaticon.com/icons/png/512/2111/2111319.png" width="11%" height="11%">
+<img src="https://image.flaticon.com/icons/png/512/2111/2111319.png" width="12%" height="12%">
 </a>
