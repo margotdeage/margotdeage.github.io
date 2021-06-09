@@ -4,11 +4,35 @@ title: A propos
 ---
 
 <img alt="Margot Déage" src="WhatsApp Image 2021-06-08 at 16.13.09.jpeg"  width="18%" height="18%" />
-                                                                                             
-                                                                                             
-margot.deage@u-pec.fr
 
-ATER à l'Université Paris-Est Créteil
+<html>
+   
+<head>
+    <title>
+        How to Vertically Align Text
+        Next to an Image using CSS ?
+    </title>
+      
+    <style>
+        img {
+            vertical-align: middle;
+        }
+    </style>
+</head>
+   
+<body>
+    <
+<img alt="Margot Déage" src="WhatsApp Image 2021-06-08 at 16.13.09.jpeg"  width="18%" height="18%" alt="">
+              
+    <span>
+        margot.deage@u-pec.fr //
+        ATER à l'Université Paris-Est Créteil
+    </span>
+</body>
+   
+</html>
+                                                                                             
+
 
 
 ### Thématiques de recherche
