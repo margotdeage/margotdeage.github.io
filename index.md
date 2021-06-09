@@ -25,7 +25,7 @@ Contact : deage.m@gmail.com
 <img src="https://lh3.googleusercontent.com/proxy/dXXSc4Ks4xzMeJC8EM9WUoai0GilvAQtcCUZx8Yvn-NT5kwLSwdPejiFHiICSd85YySAFclx3zhKhnqw26KWKI9wijyVaB2M14uYKB2aBZNcQsSjMuKvHTYpYvWUogf9ewJx4AU" width="18%" height="18%">
 </a>
 <a href="https://philomel.hypotheses.org/annuaire/profil-de-margot-deage">
-<img src="http://philomel.hypotheses.org/files/2019/04/logo-philomel-2-500x310.png" width="13%" height="13%">
+<img src="http://philomel.hypotheses.org/files/2019/04/logo-philomel-2-500x310.png" width="15%" height="15%">
 </a>
 
 
