@@ -56,7 +56,7 @@ title: A propos
 </a>
 
 <a href="https://scholar.google.fr/citations?user=CwkHhTcAAAAJ&hl=fr">
-<img src="https://hnhp.mnhn.fr/sites/hnhp/files/gs.jpg">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png">
 </a>
 
 <a href="https://www.researchgate.net/profile/Margot-Deage">
@@ -64,5 +64,5 @@ title: A propos
 </a>
 
 <a href="https://u-pec.academia.edu/MargotD%C3%A9age">
-<img src="https://c0.klipartz.com/pngpicture/256/180/sticker-png-academia-edu-research-compass-film-academy-computer-icons-others-emblem-logo-university-higher-education-academy.png">
+<img src="https://image.flaticon.com/icons/png/512/2111/2111319.png">
 </a>
