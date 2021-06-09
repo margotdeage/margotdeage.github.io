@@ -16,9 +16,6 @@ Contact : margot.deage@u-pec.fr
 | Réseaux sociaux  | Genre | Rumeurs  | 
 | Violence | Méthodes Mixtes  | Interdisciplinarité |
 
-
-### Affiliations actuelles
-
 <a href="https://lirtes.u-pec.fr/">
 <img src="https://lirtes.u-pec.fr/uas/lirtes/LOGO_MOBILE/2018-Logo-LIRTES.svg" width="25%" height="25%">
 </a>
@@ -28,9 +25,6 @@ Contact : margot.deage@u-pec.fr
 <a href="https://philomel.hypotheses.org/annuaire/profil-de-margot-deage">
 <img src="http://philomel.hypotheses.org/files/2019/04/logo-philomel-2-500x310.png" width="15%" height="15%">
 </a>
-
-
-### Réseaux
  
 <a href="https://www.linkedin.com/in/margot-d%C3%A9age-435a3a170/?originalSubdomain=fr">
 <img src="https://pcdn.sharethis.com/wp-content/themes/sharethis-custom/assets/images/linkedinimg%20copy.png" width="4%" height="4%">
