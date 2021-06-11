@@ -21,7 +21,7 @@ title: A propos
 <img src="https://lirtes.u-pec.fr/uas/lirtes/LOGO_MOBILE/2018-Logo-LIRTES.svg" width="25%" height="25%">
 </a> 
 <a href="https://www.gemass.fr/member/deage-margot/">
-<img src="![image](https://user-images.githubusercontent.com/38110079/121645369-67c70980-ca94-11eb-9436-436b1b9ac9f7.png)">
+<img src="gemass.JPG">
 </a> 
 <a href="https://philomel.hypotheses.org/annuaire/profil-de-margot-deage">
 <img src="http://philomel.hypotheses.org/files/2019/04/logo-philomel-2-500x310.png" width="15%" height="15%">
