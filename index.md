@@ -5,7 +5,7 @@ title: A propos
 
 <img alt="Margot Déage" src="margotdé (2).JPG"  width="18%" height="18%" /> 
 
- margot.deage@u-pec.fr
+deage.m@gmail.com
  
  ATER à l'Université Paris-Est Créteil
  
