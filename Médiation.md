@@ -5,7 +5,7 @@ title: Médiation scientifique
 
 ### Interventions
 
-2021 – Table ronde sur l'impact des réseaux sociaux,  Mahalia Zone Libre !, La Bellevilloise, 25 avril
+2021 – Table ronde sur l'impact des réseaux sociaux dans la vie des jeunes,  Mahalia Zone Libre !, La Bellevilloise, 25 avril
 
 <iframe width="560" height="315" src="https://youtu.be/YCTQSb8bGU0?t=2140" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
